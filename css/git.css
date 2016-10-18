@@ -1,0 +1,37 @@
+
+html {
+    background-image: url("../img/kisses.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    background-size: cover;
+    }
+    
+h1 {
+color: white;
+font-size: 4em;
+font-family: helvetica;
+text-align: center;
+}
+
+
+h2 {
+color: white;
+font-size: 1em;
+font-family: helvetica;
+}
+
+li{
+ list-style-type: none;
+ }
+ 
+ figure
+ {
+ text-align: center;
+ }
+ 
+ section
+ {
+  text-align: center;
+ 
+ }
